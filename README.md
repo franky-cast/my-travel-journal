@@ -6,9 +6,9 @@ A React application that displays a list of travel destinations, including locat
 
 - [Screenshot](#screenshot)
 - [Components](#components)
-  - [App.js](#app.js)
-  - [Nav.js](#nav.js)
-  - [Container.js](#container.js)
+  - [App.js](#app)
+  - [Nav.js](#nav)
+  - [Container.js](#container)
 - [Assets](#assets)
   - [Data](#aata)
 - [Disclaimer](#disclaimer)
@@ -22,15 +22,15 @@ A React application that displays a list of travel destinations, including locat
 
 This project consists of 3 components:
 
-### App.js
+### App
 
 This is the main component which maps through the data to display all the travel destinations. It includes a Nav component to display a navigation bar and displays each Container component with its data.
 
-### Nav.js
+### Nav
 
 This component displays the navigation bar with the text "My Travel Journal".
 
-### Container.js
+### Container
 
 This component takes the data from the props and displays each travel destination's location, start and end dates, description, and an image.
 
