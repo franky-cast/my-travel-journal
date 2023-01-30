@@ -1,4 +1,4 @@
-import icon from "../assets/icons8-place-marker-48.png"
+import icon from "../../public/assets/icons8-place-marker-48.png"
 
 function Container (props) { 
     const {item} = props

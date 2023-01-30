@@ -1,6 +1,6 @@
 import Container from './components/container'
 import Nav from "./components/Nav"
-import travelData from "./assets/data"
+import travelData from "../public/assets/data"
 
 function App() {
   const data = travelData.map(x => <Container key={x.title} item={x}/>)
