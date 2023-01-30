@@ -10,12 +10,12 @@ A React application that displays a list of travel destinations, including locat
   - [Nav.js](#nav)
   - [Container.js](#container)
 - [Assets](#assets)
-  - [Data](#aata)
+  - [Data](#data)
 - [Disclaimer](#disclaimer)
 
 ## Screenshot
-![](".../public/assets/sc-mobile.png")
-![](".../public/assets/sc-desktop.png")
+![]("./public/assets/sc-mobile.png")
+![]("./public/assets/sc-desktop.png")
 
 
 ## Components
