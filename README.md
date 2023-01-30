@@ -14,8 +14,8 @@ A React application that displays a list of travel destinations, including locat
 - [Disclaimer](#disclaimer)
 
 ## Screenshot
-![]("./public/assets/sc-mobile")
-![]("./public/assets/sc-desktop")
+![](./public/assets/sc-mobile.png)
+![](./public/assets/sc-desktop.png)
 
 
 ## Components
