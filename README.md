@@ -11,7 +11,6 @@ A React application that displays a list of travel destinations, including locat
   - [Container.js](#container)
 - [Assets](#assets)
   - [Data](#data)
-- [Disclaimer](#disclaimer)
 
 ## Screenshot
 ![](./public/assets/sc-mobile.png)
@@ -49,9 +48,3 @@ This project uses a static data file travelData which contains an array of objec
 - endDate: the end date of the trip
 - description: a brief description of the destination
 - imageUrl: a URL to an image of the destination
-
-
-## Disclaimer
-
-The image URLs used in this project are from Unsplash and might not be available anymore.
-The Google Maps URLs used in this project are just examples and might not work anymore.
