@@ -4,7 +4,7 @@ function Container (props) {
     const {item} = props
     return (
         <div className="container">
-            <div id="main-section-el">
+            <div id="main-section-el">            
 
                 <div className="wrap--img">
                     <img className="img" src={item.imageUrl} alt={`${item.title}`}></img>
