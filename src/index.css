@@ -6,8 +6,15 @@ body {
     margin: 0;
     padding: 0.5em;
     font-family: 'Inter', sans-serif;
+    background-image: url(../public/assets/plane.jpeg);
+    background-size: cover;
 }
 
+.app {
+    background-color: #fff;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
 
 /* nav */
 .nav{
